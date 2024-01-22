@@ -21,7 +21,7 @@
 [<img src="https://user-images.githubusercontent.com/93418649/235185024-cc4d15b7-610f-41ce-9ae8-ef2e3b627b64.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185024-cc4d15b7-610f-41ce-9ae8-ef2e3b627b64.jpg)
 [<img src="https://user-images.githubusercontent.com/93418649/235185094-553f20ca-139a-4049-a43a-104326904316.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185094-553f20ca-139a-4049-a43a-104326904316.jpg)
 [<img src="https://user-images.githubusercontent.com/93418649/235185050-d4833f5b-603c-43d3-8a9e-4bc41450e4b3.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185050-d4833f5b-603c-43d3-8a9e-4bc41450e4b3.jpg)
-![1](https://github.com/Buiduyanh20/ODER_FOODS_FPOLY/assets/113623522/e258c65d-7353-407f-a48a-4e35ef09dc2b)
+![Uploading 1.png…]()
 
 - Quản lý thông tin từng đối tượng đầu vào. Người dùng dễ dàng thêm ,sửa, xóa từng đối tượng theo nhu cầu của bản thân 1 cách rõ ràng.
 
