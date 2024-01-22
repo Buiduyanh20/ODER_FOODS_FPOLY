@@ -21,7 +21,11 @@
 [<img src="https://user-images.githubusercontent.com/93418649/235185024-cc4d15b7-610f-41ce-9ae8-ef2e3b627b64.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185024-cc4d15b7-610f-41ce-9ae8-ef2e3b627b64.jpg)
 [<img src="https://user-images.githubusercontent.com/93418649/235185094-553f20ca-139a-4049-a43a-104326904316.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185094-553f20ca-139a-4049-a43a-104326904316.jpg)
 [<img src="https://user-images.githubusercontent.com/93418649/235185050-d4833f5b-603c-43d3-8a9e-4bc41450e4b3.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185050-d4833f5b-603c-43d3-8a9e-4bc41450e4b3.jpg)
-[<img src="https://user-images.githubusercontent.com/93418649/235185197-59628225-f28c-4369-9f63-450911c55d99.jpg" width="24%"/>](https://user-images.githubusercontent.com/93418649/235185197-59628225-f28c-4369-9f63-450911c55d99.jpg)
+![1](https://github.com/Buiduyanh20/ODER_FOODS_FPOLY/assets/113623522/f4a03dba-4dae-4e3b-9428-43a5ca6a9f5a)
+
+
+
+
 - Quản lý thông tin từng đối tượng đầu vào. Người dùng dễ dàng thêm ,sửa, xóa từng đối tượng theo nhu cầu của bản thân 1 cách rõ ràng.
 
 ## 4. Phương thức tạo đơn, oder 
